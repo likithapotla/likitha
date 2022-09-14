@@ -1,1 +1,1 @@
-/node_modules
+web: node ./tnp.js
